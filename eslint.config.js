@@ -5,7 +5,6 @@ import reactRefresh from 'eslint-plugin-react-refresh';
 import globals from 'globals';
 import tseslint from 'typescript-eslint';
 
-// Same setup as the GUI Builder assignment.
 export default tseslint.config(
   { ignores: ['dist', 'test-results', 'playwright-report'] },
   {
