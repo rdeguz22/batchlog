@@ -8,7 +8,7 @@ Final project for CS 3484 (GUI Programming), Northeastern University.
 
 | Name             | Role                                    |
 | ---------------- | --------------------------------------- |
-| Rico de Guzman   | Project Lead, Task Tracker, Contributor |
+| Rico de Guzman   | Contributor |
 | Ethan Dsouza     | Contributor                             |
 | Yuvaraj Goenka   | Contributor                             |
 | Jordan Singleton | Contributor                             |
